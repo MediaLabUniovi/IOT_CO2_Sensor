@@ -1,0 +1,2 @@
+1 - defina ssid, usuario y contraseña en el archivo credentials
+2 - defina el número de leds en la variable MUMPIXELS
