@@ -14,7 +14,6 @@ ___
 - [Esquemático](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#esquem%C3%A1tico)
 - [PCB personalizada](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#pcb-personalizada)
 - [Carcasa a medida](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#carcasa-a-medida)
-- [Modo de implementación](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-modo-de-implementaci%C3%B3n-)
 - [Licencia](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-licencia-)
 - [Contacto](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-contacto-)
 
@@ -78,7 +77,7 @@ A continuación, se muestra el esquemático para consultar conexiones:
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_125310_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_125310_easyeda.com.jpeg" width="450"  style="margin: 10px;"/>
   
   <em>Esquemático del Sensor de CO2</em>
 </div>
