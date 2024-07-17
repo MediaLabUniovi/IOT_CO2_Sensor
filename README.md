@@ -78,7 +78,7 @@ A continuación, se muestra el esquemático para consultar conexiones:
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_125310_easyeda.com.jpeg" width="1000"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_125310_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
   
   <em>Esquemático del Sensor de CO2</em>
 </div>
