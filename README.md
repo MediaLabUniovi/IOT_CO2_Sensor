@@ -116,16 +116,6 @@ En la web [`MediaLab Sensor CO2`](https://www.medialab-uniovi.es/pro-sensorco2.p
 
 ___
 
-## <p align="justify"> Modo de implementación </p>
-
-<div align="justify">
-
-Toda la explicación del código de Arduino viene dada en el mismo, [`99danirmoya/Salero-MdN/tree/main/src/main.cpp`](https://github.com/99danirmoya/Salero-MdN/blob/main/src/main.cpp), en formato de comentarios al lado de cada línea
-
-</div>
-
-___
-
 ## <p align="justify"> Licencia </p>
 
 <div align="justify">
