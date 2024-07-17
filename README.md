@@ -4,6 +4,11 @@
 
 </div>
 
+<div align="center">
+  <img src="https://www.medialab-uniovi.es/media/fotos/sensorco2/32.png" width="900"  style="margin: 10px;"/>
+</div>
+<br/>
+
 <div align="justify">
 
 ___
