@@ -83,9 +83,9 @@ A continuación, se muestra el esquemático para consultar conexiones:
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot_19-6-2024_232017_easyeda.com.jpeg" width="1000"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_125310_easyeda.com.jpeg" width="1000"  style="margin: 10px;"/>
   
-  <em>Esquemático del salero memorístico</em>
+  <em>Esquemático del Sensor de CO2</em>
 </div>
 <br/>
 
@@ -93,47 +93,14 @@ ___
 
 ## PCB personalizada
 
-En la carpeta [`Salero-MdN/tree/main/pcb`](https://github.com/99danirmoya/Salero-MdN/tree/main/pcb) se encuentran los archivos Gerber para su fabricación:
+En la web [`MediaLab Sensor CO2`](https://www.medialab-uniovi.es/pro-sensorco2.php) se encuentran los archivos Gerber para su fabricación:
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot_19-6-2024_183655_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_123044_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
 
   <em>Vista posterior de la PCB</em>
 </div>
 <br/>
-
-<div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot_19-6-2024_183749_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
-
-  <em>Vista anterior de la PCB</em>
-</div>
-<br/>
-
-___
-
-### <p align="justify"> Flujograma </p>
-
-```mermaid
-graph TD;
-  A[Configuración inicial: LEDs apagados] -->|1| B(Se echa sal)
-  G -->|15| S(Sleep mode)
-  S -->|16| T(INTERRUPCIÓN)
-  T -->|17| B
-  B -->|2| H(Se enciende el primer LED)
-  H -->|3| I(¿Se echó sal de nuevo en la última hora?)
-  I -->|4| J(Sí)
-  I -->|5| K(No)
-  K -->|12| G(Se apagan los LEDs)
-  J -->|6| L(Se añade el segundo LED)
-  L -->|7| M(¿Se echó sal de nuevo en la última hora?)
-  M -->|8| N(Sí)
-  M -->|10| O(No)
-  N -->|9| P(Se añade el tercer LED)
-  O -->|13| G
-  P -->|11| R(Pasa 1 hora)
-  R -->|14| G
-  
-```
 
 ___
 
@@ -141,33 +108,16 @@ ___
 
 ## Carcasa a medida
 
-En la carpeta [`Salero-MdN/tree/main/housing`](https://github.com/99danirmoya/Salero-MdN/tree/main/housing) se incluyen los tres archivos ".stl" que se muestran a continuación:
+En la web [`MediaLab Sensor CO2`](https://www.medialab-uniovi.es/pro-sensorco2.php) se incluyen los tres archivos ".stl" que se muestran a continuación:
 
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot%202024-03-11%20191934.png" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/sensor01.jpg" width="600"  style="margin: 10px;"/>
 
-  <em>Dosificador</em>
+  <em>Carcasa 3D a medida</em>
 </div>
 <br/>
-  
-<div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot%202024-03-11%20191914.png" width="600"  style="margin: 10px;"/>
-
-  <em>Recipiente de sal</em>
-</div>
-<br/>
-  
-<div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot%202024-03-11%20191955.png" width="600"  style="margin: 10px;"/>
-
-  <em>Contenedor de electrónica</em>
-</div>
-<br/>
-
-> [!WARNING]
-> Los modelos de las imágenes son experimentales y aún están siendo trabajados
 
 ___
 
@@ -197,10 +147,5 @@ ___
 > Responderemos amablemente a dudas y leeremos sugerencias: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:medialablpwan@gmail.com)](mailto:medialablpwan@gmail.com)
 > 
 > Más información sobre nuestras actividades: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/groups/9298597/)](https://www.linkedin.com/groups/9298597/)
-
-<div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/-5976428790768845376_121.jpg" width="600">
-</div>
-<br/>
 
 _<p align="justify"> Autores: Simón, Andrea, César, Aida, Juan, Iván y Carlos :shipit: </p>_
