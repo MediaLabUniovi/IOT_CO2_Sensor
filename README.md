@@ -38,11 +38,14 @@ ___
 
 ## Modo de funcionamiento
 
-
 </div>
 
-> [!WARNING]
-> El salero siempre está encendido dado su bajo consumo de batería. Si se retira la batería, no volverá a funcionar hasta que se le ponga la batería de nuevo, se conecte a un cargador, o ambas. Desde ese momento, se iniciará automáticamente
+<div align="center">
+  <img src="https://github.com/99danirmoya/pro-sensor-co2/blob/main/pics/Screenshot_17-7-2024_123512_www.medialab-uniovi.es.jpeg" width="1000"  style="margin: 10px;"/>
+  
+  <em>Instrucciones del sensor de CO2</em>
+</div>
+<br/>
 
 ___
 
@@ -52,19 +55,22 @@ ___
 
 | Componente | Unidades |
 | ------------- | ------------- |
-| Arduino NANO | 1 |
-| [PCB](https://github.com/99danirmoya/Salero-MdN/blob/main/pcb) | 1 |
-| Botón de inclinación | 1 |
-| Botón | 1 |
-| LED verde | 1 |
-| LED amarillo | 1 |
-| LED rojo | 1 |
-| Resistencias 2K2 | 3 |
-| Batería 18650 | 1 |
-| Porta-batería | 1 |
+| ESP32 | 1 |
+| PCB | 1 |
+| Carcasa 3D | 1 |
+| SCD30 | 1 |
+| Terminales | 1 |
+| Banda Neopixel | 1 |
+| Zumbador | 1 |
+| Tira de pines | 3 |
+| Conector hembra PCB | 1 |
+| Resistencia 470 Ohm | 1 |
 | TP4056 | 1 |
 
 </div>
+
+> [!WARNING]
+> Links de los componentes en [`MediaLab Sensor CO2`](https://www.medialab-uniovi.es/pro-sensorco2.php)
 
 <div align="justify">
 
