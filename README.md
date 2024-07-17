@@ -1,8 +1,3 @@
-# pro-sensor-co2
-Sensor de CO2 con indicador LED y conexión WiFi desarrollado por MediaLab UniOvi
-
-![Static Badge](https://img.shields.io/badge/Estabilidad-v1.0-3314333)
-
 # <p align="center"> PRO SENSOR CO2 - MEDIALAB UNIOVI </p>
 
 ## Sensor de CO2 para interiores con conectividad WiFi para almacenar la evolución de una sala en la nube e indicadores LED para ver de forma presencial el estado de la calidad del aire en tiempo real.
