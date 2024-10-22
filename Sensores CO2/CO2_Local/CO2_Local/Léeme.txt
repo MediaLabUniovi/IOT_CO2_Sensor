@@ -1,1 +1,0 @@
--En NUMPIXELS tendrás que definir el número de leds que tiene tu sensor.
